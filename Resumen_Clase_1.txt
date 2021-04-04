@@ -1,0 +1,19 @@
+17/03/2021
+
+Profes: Erika y Lucas 
+
+Presentacion de la materia. 
+Objetivos: 
+-Conocimientos tecnicos de informatica en general.
+- Hardware y Software.
+- Redes e interconexion. 
+- Aspectos generales de la seguridad de los sistemas informaticos. 
+- Codigos de etica profesional. 
+
+Repaso de glosario tecnico. 
+Hardware / Software / Servidores / Interfaces de usuario
+
+
+TIP DE ESTUDIO: 
+La curva del olvido. Armar sistemas de repaso.
+Repeticion Espaciada. 
