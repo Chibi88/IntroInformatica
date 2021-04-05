@@ -1,0 +1,26 @@
+MOCHILA DEL VIAJERO
+
+PRACTICA INDIVIDUAL OBLIGATORIA 
+C4S - 26/03/2021
+
+1. ¿Quién inventó el sistema de control de versión Git 
+y por qué?
+
+Git fue creado por Linus Torvalds en 2005 
+para ser utilizado en el desarrollo del kernel de Linux
+
+2. ¿A quién pertenece actualmente Github y por qué?
+
+Actualmente pertenece a Microsoft que lo compro en el
+año 2018 con la idea de proporcionar mas y mejores
+herramientas a desarrolladores de OpenSource
+
+3. ¿Hay otra forma que no sea la terminal para trabajar 
+con Github?
+
+Si, se puede utilizar además de las líneas de comando
+las interfaces gráficas, pero con estas no se pueden
+utilizar todos los comandos disponibles en GIT debido
+a su simplicidad, si queremos explotar el potencial 
+de GIT debemos utilizarlo desde la terminal.
+
